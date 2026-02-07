@@ -1,16 +1,20 @@
-## Hi there 👋
+# Amir Miah
 
-<!--
-**zzz556/zzz556** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Finance & Accounting @ Wayne State. I build practical tools for analysis, reporting, and automation.
 
-Here are some ideas to get you started:
+## Focus
+- Financial modeling (Excel, Power BI / Looker-style dashboards)
+- Python for finance (cleaning data, backtesting basics, automation)
+- Systems thinking: workflows that save time and reduce errors
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Finance Dashboard — KPI dashboard + reporting workflow
+- Excel Automation — templates + VBA/Python scripts for repeatable ops
+- Valuation Toolkit — DCF/comps template + documentation
+
+## Skills
+Excel • Accounting • Financial Statements • Python • SQL (basic) • Git • Data cleaning
+
+## Contact
+- [LinkedIn:](https://www.linkedin.com/in/amir-miah-242b74178/)
+- Email: amirmiahn64@gmail.com
